@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-![image logo](/images/logo.jpg)
-
+ <img src="{{site.baseurl}}public/images/logo.jpg">
+ 
 ## We do things differently
 <p>
 Started in 2018 in Montevideo, Uruguay and managed to strive. Our path-breaking approach to creativity has helped companies across the world changing and improving their business processes to compete at a global scale.  
