@@ -3,6 +3,8 @@ layout: post
 title: Introducing Hyde
 ---
 
+<img src="https://c1.staticflickr.com/5/4821/45313681224_103b95a6f3_m.jpg">
+
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole

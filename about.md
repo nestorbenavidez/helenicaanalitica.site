@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
- <img src="{{ site.baseurl }}public/images/logo.jpg">
+<img src="https://c1.staticflickr.com/5/4821/45313681224_103b95a6f3_m.jpg">
 
 ## We do things differently
 <p>
