@@ -10,7 +10,7 @@ title: About
 Started in 2018 in Montevideo, Uruguay and managed to strive. We help companies across the world changing and improving their business processes to compete at a global scale.  
 </p>
 <p>
-We're minimalist and believe in excellence. We work with *Ruby, Go, Java and Scala*.
+We believe in simplicity and excellence. We work with *Ruby, Go, Java and Scala*.
 </p>
 <p>
 More about our founder <a href="https://nestorbenavidez.com"> Nestor Benavidez </a>
