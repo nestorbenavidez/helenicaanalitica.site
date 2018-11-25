@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-   Simplicity is the ultimate sophistication
-</p>
+![image logo](/images/logo.jpg)
 
 ## We do things differently
 <p>
