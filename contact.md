@@ -8,5 +8,7 @@ title: Contact
 
 <p>
 email	nestor@helenicaanalitica.site
+</p>
+<p>
 tel   +598 093 97 4803
 </p>
