@@ -8,9 +8,12 @@ title: About
 </p>
 
 ## We do things differently
-
-Started in 2017 by 4 engineers from Nicaragua, Uruguay, Ghana and USA and managed to strive. Our path-breaking approach to creativity has helped companies across the world changing and improving their business processes to compete at a global scale.  
-
+<p>
+Started in 2018 in Montevideo, Uruguay and managed to strive. Our path-breaking approach to creativity has helped companies across the world changing and improving their business processes to compete at a global scale.  
+</p>
+<p>
 We're minimalist and believe in excellence. We work with *Ruby, Go, Java and Scala*.
-
+</p>
+<p>
 More about out founder [Nestor](https://nestorbenavidez.site)
+</p>
