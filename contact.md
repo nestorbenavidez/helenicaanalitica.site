@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
-## We do things differently
+## For Business Inquiries
 
-<img src="https://c1.staticflickr.com/5/4821/45313681224_103b95a6f3_m.jpg">
+<img src="https:////c1.staticflickr.com/5/4803/44222409070_9fc1367cd7_m.jpg">
 
 <p>
 Started in 2018 in Montevideo, Uruguay and managed to strive. We help companies across the world changing and improving their business processes to compete at a global scale.  
@@ -13,5 +13,5 @@ Started in 2018 in Montevideo, Uruguay and managed to strive. We help companies 
 We're minimalist and believe in excellence. We work with *Ruby, Go, Java and Scala*.
 </p>
 <p>
-More about our founder <a href="https://nestorbenavidez.com"> Nestor Benavidez </a>
+More about out founder <a href="https://nestorbenavidez.com"> Nestor Benavidez </a>
 </p>
